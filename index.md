@@ -10,3 +10,4 @@ This is where i learned how to use functions. It was a lot of fun.
 
 * Lab 7, Part 2
 
+I love github
