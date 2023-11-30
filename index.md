@@ -1,4 +1,4 @@
-#Joseph Geiger's Portfolio
+# Joseph Geiger's Portfolio
 
 I am a computer science major who is graduating in 2029.
 
