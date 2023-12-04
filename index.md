@@ -4,7 +4,7 @@ This is my home page! My name is Joseph and I am a student at [Cal State Fullert
 
 ## Computer Science Projects
 
-My GitHub page is http://github.com/your_username.
+My GitHub page is http://github.com/sirbagleton.
 
 ### CPSC 120
 
